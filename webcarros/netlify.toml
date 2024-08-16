@@ -1,6 +1,0 @@
-[build]
-  # Diretório onde os arquivos estáticos do site são gerados após o build
-  publish = "build" # ou "dist", "public", etc.
-
-  # Comando para construir o site
-  command = "npm run build" # ou "yarn build", conforme o comando de build do seu projeto
